@@ -1,1 +1,3 @@
-# UFO
+# Color Pixel Theory and Image Representation using PIL
+
+Manipulating  the  pixel  intensity  values  of  an  image  (also  called Filtering),  is  an important part of the image pre-processing stage of Computer Vision. Performing image manipulation tasks manually through code can be a tedious task, so libraries  such  as PIL  (Python  Imaging  Library)  and OpenCV, which  have  in-built  pixel alteration functions, are often used to achieve such tasks. The  PIL  library  consists  of  methods  that  can  extract  the  pixelmap  from  an  image  and change pixel intensities by iterating over each pixel value.
